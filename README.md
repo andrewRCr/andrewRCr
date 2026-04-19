@@ -2,36 +2,7 @@
 <h2 align="center">
 Hey, I'm Andrew
 </h2>
-<table align="center"><tr>
-  <td><img alt="TypeScript" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
-  <td><img alt="React" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-  <td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
-      <img alt="Next.js" width="32" height="32" src="https://icon.icepanel.io/Technology/svg/Next.js.svg" />
-    </picture>
-  </td>
-  <td><img alt="Python" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-  <td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/FFFFFF" />
-      <img alt="Django" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    </picture>
-  </td>
-  <td><img alt="C#" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
-  <td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dotnet/FFFFFF" />
-      <img alt=".NET" width="32" height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
-    </picture>
-  </td>
-  <td>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/blazor/FFFFFF" />
-      <img alt="Blazor" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
-    </picture>
-  </td>
-</tr></table>
+<p align="center"><img alt="TypeScript" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;<img alt="React" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" /><img alt="Next.js" width="32" height="32" src="https://icon.icepanel.io/Technology/svg/Next.js.svg" /></picture>&nbsp;<img alt="Python" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/FFFFFF" /><img alt="Django" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></picture>&nbsp;<img alt="C#" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dotnet/FFFFFF" /><img alt=".NET" width="32" height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" /></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/blazor/FFFFFF" /><img alt="Blazor" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" /></picture></p>
 
 Full-stack developer with a psychology background, pairing traditional
 engineering discipline with hands-on AI collaboration. Hobbyist game developer and modder. Film enthusiast. Eagle Scout.
