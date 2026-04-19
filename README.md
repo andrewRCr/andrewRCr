@@ -19,8 +19,18 @@ Hey, I'm Andrew
     </picture>
   </td>
   <td><img alt="C#" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></td>
-  <td><img alt=".NET" width="32" height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" /></td>
-  <td><img alt="Blazor" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" /></td>
+  <td>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dotnet/FFFFFF" />
+      <img alt=".NET" width="32" height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+    </picture>
+  </td>
+  <td>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/blazor/FFFFFF" />
+      <img alt="Blazor" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
+    </picture>
+  </td>
 </tr></table>
 
 Full-stack developer with a psychology background, pairing traditional
